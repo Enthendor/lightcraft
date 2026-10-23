@@ -79,6 +79,7 @@ Beta-blocking gaps (B) total **~230–430 h**; with the stability and platform w
 
 | Date | Change | Summary |
 |---|---|---|
+| 2026-10-23 | patch | Gap 8: the Sigma 10–18 mm on the ILCE-6700 gets a measured lens exception at 10–10.5 mm (0.55 px worst over 99 photos, was about 1.4 px) |
 | 2026-10-23 | minor | Gap 8 narrows: Sony ILCE-6700 (APS-C) in-file distortion through the ILCE-7RM6 conversion, knots spanning its own crop (30 photos, 3 lenses; 0.73 px worst except 1.38 px at 10 mm); the gap stays open (no lens database), hours unchanged |
 | 2026-10-21 | minor | Gap 28 shrinks: F8 shows / hides the right panel (`view.rightPanel`); rating `[` `]`, flag cycling and F1 help were already bound, so the entry lists only filter-bar keys, Tab / ⇧Tab and F5; 2–4 h (was 4–8) |
 | 2026-10-20 | minor | #2362: import destination albums use the shared hierarchy/search picker instead of a flat name list; existing import workflows retained; ranked gaps/readiness counts unchanged |
