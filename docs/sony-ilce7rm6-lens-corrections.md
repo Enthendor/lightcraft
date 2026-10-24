@@ -150,8 +150,9 @@ full-frame 0.25 px gate. Measured against the camera JPEG, the fitted polynomial
 `10-18mm F2.8 DC DN | Contemporary 023` and `FocalLength` ≤ 10.5 mm). Its wide end keeps 1.36–1.38 px under the
 body's rule. On 115 further private photos of this lens (97 at 10 mm, 2 at 10.4–10.5 mm, 16 at 11.7–12.5 mm), a grid
 over spacing 372–426 px and unit 14000–16500 was measured on the exact table. The photos at 10 mm were split by
-shooting location: 63 to choose, 34 to check. Spacing and unit trade off along a ridge: 420 px / 14000 was best on the
-63 (0.445 px worst) but put 2 of the 34 above 0.75 px, so the pick is **416 px / 14250**, within 0.51 px on both halves.
+shooting location: 63 to choose the values, 34 to check them. A larger spacing with a smaller unit fits about as well
+(a ridge in the grid): 420 px / 14000 was best on the 63 choice photos (0.445 px worst) but put 2 of the 34 check photos
+above 0.75 px, so the pick is **416 px / 14250**, within 0.51 px on both sets.
 As rendered (`lightcraft-cli render`, Enable Lens Corrections on):
 
 | Sigma 10–18 mm | p95 at 1440 px |
